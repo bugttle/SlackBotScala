@@ -1,0 +1,7 @@
+slack {
+  outboundToken = "XXXXXXXXXXXXXXXXXXXXXXXX"
+  botName = "your-bot-name"
+  iconEmoji = ":octocat:"
+  fallbackChannel = "bot-private"
+  incommingUrl = "https://hooks.slack.com/services/XXXXXXXXX/XXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXX"
+}

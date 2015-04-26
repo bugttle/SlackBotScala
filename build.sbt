@@ -10,5 +10,7 @@ libraryDependencies ++= Seq(
   jdbc,
   anorm,
   cache,
-  ws
+  ws,
+  "org.jsoup" % "jsoup" % "1.8.1",
+  "com.typesafe" % "config" % "1.2.1"
 )
